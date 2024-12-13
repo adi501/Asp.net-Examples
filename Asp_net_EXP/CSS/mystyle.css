@@ -1,0 +1,26 @@
+﻿body
+{
+    background-color:Yellow;
+}
+table
+{
+    background-color:Blue;
+}
+.mytextbox
+{
+    width: 300px;
+    height: 30px;
+    background-color: Aqua;
+    border-color: Green;
+}
+
+#btn_submit
+{
+    background-color:Orange;
+    border-color: Green;
+}
+#Button1
+{
+     background-color:Orange;
+    border-color: Green;
+}

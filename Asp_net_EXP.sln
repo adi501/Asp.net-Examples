@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp_net_EXP", "Asp_net_EXP\Asp_net_EXP.csproj", "{F43DBA93-0C2E-49CA-A273-98CC1B9B6E8F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{197ED45F-C3F5-421F-AC3D-C6D622B2BBC4} = {197ED45F-C3F5-421F-AC3D-C6D622B2BBC4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Services", "Web_Services\Web_Services.csproj", "{197ED45F-C3F5-421F-AC3D-C6D622B2BBC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43DBA93-0C2E-49CA-A273-98CC1B9B6E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43DBA93-0C2E-49CA-A273-98CC1B9B6E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43DBA93-0C2E-49CA-A273-98CC1B9B6E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43DBA93-0C2E-49CA-A273-98CC1B9B6E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197ED45F-C3F5-421F-AC3D-C6D622B2BBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197ED45F-C3F5-421F-AC3D-C6D622B2BBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197ED45F-C3F5-421F-AC3D-C6D622B2BBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197ED45F-C3F5-421F-AC3D-C6D622B2BBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
